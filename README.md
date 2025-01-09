@@ -10,6 +10,7 @@ Flow ->
     e. build image
     f. deployment
 4. CloudWatch for resource metrics
+5. Docker for image and DockerHub or Amazon Elastic Container Registry (ECR)
 
 Includes 
 ec2
