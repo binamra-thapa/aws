@@ -44,5 +44,6 @@ dynamodb  or auroradb
 
 loadbalancer 
 network acl's 
+security groups
 fargate 
 lambda function
